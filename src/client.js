@@ -1,7 +1,6 @@
 const { Socket } = require('net');
 const readline = require('readline');
-
-const END = 'END';
+const { END } = require('./lib/config.js');
 
 const logError = (message) => {
   console.error(message);

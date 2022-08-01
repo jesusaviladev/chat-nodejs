@@ -1,7 +1,6 @@
 const { Server } = require('net');
+const { END, host } = require('./lib/config.js');
 
-const END = 'END';
-const host = '0.0.0.0';
 const CONNECTIONS = new Map(); // hashtable
 
 const sendMessage = (message, origin) => {
