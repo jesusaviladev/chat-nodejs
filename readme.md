@@ -1,8 +1,8 @@
-#NodeJS Chat
+# NodeJS Chat
 
 Node.js chat over TCP/IP using native Sockets library, for practice purposes only
 
-##Usage
+## Usage
 
 1.For Server:
 node src/server.js [TCP PORT]
