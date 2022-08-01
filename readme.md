@@ -10,4 +10,4 @@ node src/server.js [TCP PORT]
 2. For Clients:
 node src/client.js [HOST NAME] [TCP PORT]
 
-project based on this repository: [Github Repo](https://github.com/4tomik/sockets-node)
+project based on this repository: [https://github.com/4tomik/sockets-node](https://github.com/4tomik/sockets-node)
